@@ -1,4 +1,4 @@
-# Projeto Trybers and Dragons ⚽
+# Projeto Trybers and Dragons
 
 ## Contexto do projeto:
 
