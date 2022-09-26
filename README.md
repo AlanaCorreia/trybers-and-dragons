@@ -1,4 +1,4 @@
-# Projeto Trybers and Dragons ⚽
+# Projeto Trybers and Dragons
 
 ## Contexto do projeto:
 
@@ -44,11 +44,12 @@ Projeto back-end para aplicação dos princípios da arquitetura SOLID e os prin
   
   3- Execute o docker-compose.yml através do script:
   
-    ``` docker-compose up -d ``` 
+  ``` docker-compose up -d ``` 
 
   4 - A partir daqui você pode rodar o container trybers_and_dragons via CLI ou abri-lo no VS Code.
     Use o comando:
-      ``` docker exec -it trybers_and_dragons bash ```
+      
+  ``` docker exec -it trybers_and_dragons bash ```
 
     Ele te dará acesso ao terminal interativo do container criado pelo compose, que está rodando em segundo plano.
     
